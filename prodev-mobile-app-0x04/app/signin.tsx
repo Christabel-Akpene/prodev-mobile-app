@@ -6,7 +6,7 @@ import {
   Image,
   ScrollView,
 } from "react-native";
-import { styles } from "@/styles/_joinstyle";
+import { styles } from "@/styles/_join";
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from "@/constants";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
